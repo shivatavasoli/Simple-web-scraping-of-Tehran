@@ -56,5 +56,3 @@ This analysis explores the historical weather data for Tehran, including average
 
 Additionally, based on the annual weather averages, it is evident that June and July are particularly appealing months for holidaymakers, as they boast the most favorable weather conditions. During these months, temperatures are pleasant, with an average around 18°C, making them ideal for outdoor activities and exploration.
 
-Contributors
-
