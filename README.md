@@ -2,14 +2,19 @@
 This Python Notebook project analyzes historical yearly weather averages for Tehran, Iran. The data represents the average maximum and minimum temperatures as well as the annual average rainfall, taken from 12 months of a year as a historical data. The data is obtained from the Weather WX Online website.
 
 **Data Source**
+
 The data used in this analysis is derived from the following URL:
+
 **Tehran Weather** 
+
 https://www.weatherwx.com/yearly-climate/ir/tehran.html
 
 **Project Overview**
+
 The project involves web scraping, data cleaning, analysis, and visualization using Python libraries such as BeautifulSoup, pandas, seaborn, and matplotlib.
 
 **Data Content**
+
 The dataset includes the following information:
 
 Month: The month of the year.
