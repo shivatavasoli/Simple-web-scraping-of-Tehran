@@ -12,8 +12,6 @@ The project involves web scraping, data cleaning, analysis, and visualization us
 
 Data Content
 The dataset includes the following information:
-Month','avg_Temperatures', 'avg_Windspeed', 'avg_Precipitation', 'avg_Humidity','avg_Cloud_Cover','avg_Pressure','avg_Dry_Days','avg_Precip_Days', 'avg_Snow_Days','avg_Fog_Days','avg_UVIndex','avg_Hours_of_Sun']
-
 
 Month: The month of the year.
 Average temperature: Average daytime temperature in degrees Farenhait.
