@@ -17,14 +17,15 @@ The project involves web scraping, data cleaning, analysis, and visualization us
 
 The dataset includes the following information:
 
-Day: The next 10 days.
-temperature: Average daytime temperature in degrees Celsious.
+Day: The date of month for next 10 days.
+Max temperature: Max temperature per day in degrees Celsious.
+Min temperature: Min temperature per day in degrees Celsious.
 Wind Speed: Average Wind Speed in Km/h.
-Rain volume: Rain volume/inches
+Rain volume: Rain volume/inches per day
 
 
 Tehran_Webscraping.ipynb: Jupyter Notebook containing the Python code.
-Tehran_weather_averages.csv: CSV file with cleaned weather data exported from the Tehran_Webscraping.ipynb.
+Tehran_weather_10days_forecast.csv: CSV file with cleaned weather data exported from the Tehran_Webscraping.ipynb.
 
 Web Scraping:
 
