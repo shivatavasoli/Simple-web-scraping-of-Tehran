@@ -18,9 +18,13 @@ The project involves web scraping, data cleaning, analysis, and visualization us
 The dataset includes the following information:
 
 Day: The date of month for next 10 days.
+
 Max temperature: Max temperature per day in degrees Celsious.
+
 Min temperature: Min temperature per day in degrees Celsious.
-Wind Speed: Average Wind Speed in Km/h.
+
+Wind Speed: Average daily Wind Speed in Km/h.
+
 Rain volume: Rain volume/inches per day
 
 
